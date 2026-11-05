@@ -25,12 +25,6 @@
     },
     "plugins": [
       "expo-font"
-    ],
-    "extra": {
-      "eas": {
-        "projectId": "62d7309d-6784-4c4f-8fb0-d061f94e870e"
-      }
-    },
-    "owner": "septicmate"
+    ]
   }
 }
